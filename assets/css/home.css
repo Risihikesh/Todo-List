@@ -67,8 +67,8 @@ body {
   /* Implemented hover effect in description section */
   .desc_Class input:hover {
     box-shadow: 0px 0px 5px 2px rgb(46, 45, 45);
-    background-color: #01394c;
-    color: #ffffff;
+    /* background-color: #01394c; */
+    color: #000000;
   }
   
   /* Design for select and option START */
@@ -97,12 +97,12 @@ body {
   
   .select_and_input select:hover {
     box-shadow: 0px 0px 5px 2px white;
-    background-color: bisque;
+    background-color: rgb(252, 252, 252);
   }
   
   .select_and_input input:hover {
     box-shadow: 0px 0px 5px 2px white;
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
   }
   /* Design for select and option END */
   
